@@ -6,10 +6,10 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<!-- LINEARICONS -->
-		<link rel="stylesheet" href="login/fonts/linearicons/style.css">
+		<link rel="stylesheet" href="asset/fonts/linearicons/style.css">
 		
 		<!-- STYLE CSS -->
-		<link rel="stylesheet" href="login/css/style.css">
+		<link rel="stylesheet" href="asset/css/style.css">
 	</head>
 
 	<body>
@@ -53,7 +53,7 @@
 			
 		</div>
 		
-		<script src="login/js/jquery-3.3.1.min.js"></script>
-		<script src="login/js/main.js"></script>
+		<script src="asset/js/jquery-3.3.1.min.js"></script>
+		<script src="asset/js/main.js"></script>
 	</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
 </html>

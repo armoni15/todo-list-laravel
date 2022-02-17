@@ -11,5 +11,5 @@
       <p class="lead">To do list merupakan daftar tugas-tugas atau kegiatan yang harus kamu lakukan pada suatu rentang waktu. Sesuai artinya, to do list ini merupakan daftar to do atau untuk melakukan sesuatu. Biasanya daftar ini dibuat dengan rentang waktu harian, mingguan, atau bulanan.</p>
 </div>
   </div>
-</div>s
+</div>
 @endsection
